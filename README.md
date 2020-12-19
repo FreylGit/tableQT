@@ -45,4 +45,8 @@ o	всплывающее меню,
 MainWindow — класс для работы с пользовательским интерфейсом.
 DataBase — класс для управления базой данных.
 Date — класс-контейнер для хранения данных о музеях Петербурга .
+
+
 ![](https://github.com/FreylGit/tableQT/blob/main/kurs/kurs/img/img_1.jpg "Скриншот интерфейса программы")
+
+![](https://github.com/FreylGit/tableQT/blob/main/kurs/kurs/img/img_2.jpg "Скриншот интерфейса программы")
