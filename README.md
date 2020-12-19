@@ -25,20 +25,20 @@ o	всплывающее меню,
 
 Разработка структуры программы:
 
-	Программа содержит в себе следующие модули:
-•	Заголовочные файлы
-o	addwindow.h
-o	database.h
-o	date.h
-o	editor.h
-o	mainwindow.h
-•	Исходные файлы
-o	addwindow.cpp
-o	database.cpp
-o	date.cpp
-o	editor.cpp
-o	main.cpp
-o	mainwindow.cpp
+	Программа содержит в себе следующие модули
+	Заголовочные файлы
+	addwindow.h,
+	database.h,
+	date.h,
+	editor.h,
+	mainwindow.h,
+	Исходные файлы
+	addwindow.cpp,
+	database.cpp,
+	date.cpp,
+	editor.cpp,
+	main.cpp,
+	mainwindow.cpp.
 
 
 Выбор и обоснование используемых классов:
